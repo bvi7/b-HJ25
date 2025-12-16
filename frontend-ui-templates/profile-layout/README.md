@@ -28,21 +28,22 @@ Implemented a tab-based navigation system that segments content into logical sec
 ## Tech Used
 
 - HTML5  
-- CSS3  
+- CSS3 
 - JavaScript (DOM manipulation, event handling)
 
 ## Project Structure
 
-profile-layout/
-index.html
-styles.css
-script.js
-assets/
-README.md
+profile-layout/<br>
+index.html<br>
+styles.css<br>
+script.js<br>
+assets/<br>
+README.md<br>
 
 ## Notes
 
 This layout was originally developed for a CMS-based platform with templating constraints and later adapted into a standalone frontend component for portfolio demonstration.
+
 
 
 
