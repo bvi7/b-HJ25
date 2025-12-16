@@ -3,6 +3,7 @@
 A responsive profile layout built with HTML, CSS, and JavaScript featuring tabbed navigation and modular content sections.
 
 ![Preview](assets/preview.png)
+![Preview](assets/preview-2.png)
 
 ## Overview
 
@@ -42,4 +43,5 @@ profile-layout/
 ## Notes
 
 This layout was originally developed for a CMS-based platform with templating constraints and later adapted into a standalone frontend component for portfolio demonstration.
+
 
