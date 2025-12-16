@@ -18,11 +18,11 @@ This project demonstrates a reusable profile layout designed to display structur
 
 ## Problem Solved
 
-Profiles often contain large amounts of information that become difficult to read when presented in a single vertical layout.
+Profiles often contain large amounts of information that become difficult to read when presented in a single vertical layout. In this writing community, they required data to show off the stats of written characters and sections to display information at a quick glance. 
 
 ## Solution
 
-Implemented a tab-based navigation system that segments content into logical sections, improving usability and reducing visual clutter without requiring page reloads.
+Implemented a tab-based navigation system that segments content into logical sections that scroll upon reaching its maximum height, improving usability and reducing visual clutter without requiring page reloads.
 
 ## Tech Used
 
@@ -42,3 +42,4 @@ profile-layout/
 ## Notes
 
 This layout was originally developed for a CMS-based platform with templating constraints and later adapted into a standalone frontend component for portfolio demonstration.
+
