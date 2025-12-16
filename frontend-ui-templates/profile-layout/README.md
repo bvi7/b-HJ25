@@ -34,15 +34,16 @@ Implemented a tab-based navigation system that segments content into logical sec
 ## Project Structure
 
 profile-layout/
-├── index.html
-├── styles.css
-├── script.js
-├── assets/
-└── README.md
+index.html
+styles.css
+script.js
+assets/
+README.md
 
 ## Notes
 
 This layout was originally developed for a CMS-based platform with templating constraints and later adapted into a standalone frontend component for portfolio demonstration.
+
 
 
 
