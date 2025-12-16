@@ -1,10 +1,10 @@
 # Profile Layout UI Component
 
 A responsive profile layout built with HTML, CSS, and JavaScript featuring tabbed navigation and modular content sections.
-<center>
+
 ![Preview](assets/preview.png)
 ![Preview](assets/preview-2.png)
-</center>
+
 ## Overview
 
 This project demonstrates a reusable profile layout designed to display structured user or character information in a clean, organized interface. The layout emphasizes readability, responsiveness, and maintainable frontend architecture.
@@ -43,6 +43,7 @@ profile-layout/
 ## Notes
 
 This layout was originally developed for a CMS-based platform with templating constraints and later adapted into a standalone frontend component for portfolio demonstration.
+
 
 
 
